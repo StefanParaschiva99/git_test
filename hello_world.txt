@@ -2,3 +2,4 @@ Hello World
 Aggiungiamo qualcos'altro
 ora faccio add senza commit
 ora faccio il secondo add
+ora faccio commit
